@@ -10,40 +10,44 @@
   A highly customizable Flutter widget for smooth 3D content flipping with hardware-accelerated animations.
 </p>
 
+---
+
+## 🎬 Demo
+
 <p align="center">
-  <img src="gif/demo.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/leeerrrrmmm/Content-Flip-Library/main/gif/demo.gif" width="420" />
 </p>
+
+> ⚠️ If animation does not play on pub.dev, open GitHub repository for full demo.
 
 ---
 
 ## 🚀 Overview
 
-**Content Flipper** lets you build interactive 3D flip animations for any UI element — cards, flashcards, product previews, toggles, or full UI transitions.
+**Content Flipper** is a Flutter widget for building smooth 3D flip animations with gesture support and full UI flexibility.
 
-It provides:
-- smooth 3D transforms  
-- gesture-based interaction  
-- full widget flexibility  
-- production-safe animation control  
+Perfect for:
+- flashcards
+- product previews
+- onboarding flows
+- interactive UI components
 
 ---
 
 ## ✨ Features
 
-- ⚡ **3D Hardware-Accelerated Animation**
-- 🎯 **Horizontal & Vertical Flip**
-- 👆 **Tap Gesture Support**
-- 🎨 **Any Widget as Front/Back**
-- 🔄 **Reverse Flip Direction**
-- ⚙️ **Custom or Default Flip Logic**
-- 🛡️ **Safe Animation Handling**
+- ⚡ Smooth 3D hardware-accelerated animations  
+- 🎯 Horizontal & vertical flip support  
+- 👆 Tap gesture handling  
+- 🎨 Fully customizable front & back widgets  
+- 🔄 Reverse flip direction  
+- ⚙️ Built-in or custom animation logic  
+- 🛡️ Production-safe design  
 
 ---
 
 ## 📦 Installation
 
-Add dependency:
-
 ```yaml
 dependencies:
-  content_flipper: ^1.0.0
+  content_flipper: ^1.2.0
