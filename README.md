@@ -50,4 +50,4 @@ Perfect for:
 
 ```yaml
 dependencies:
-  content_flipper: ^1.2.0
+  content_flipper: ^1.2.2
