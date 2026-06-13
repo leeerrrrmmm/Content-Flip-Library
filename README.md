@@ -18,6 +18,11 @@ Whether you're building interactive flashcards, 3D toggles, product previews, or
 
 ---
 
+## Example
+![Content Flipper Demo](gif/demo.gif)
+
+---
+
 ## 📦 Installation
 
 Add the package to your `pubspec.yaml`:

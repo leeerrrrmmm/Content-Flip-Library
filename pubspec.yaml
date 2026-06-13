@@ -25,8 +25,8 @@ topics:
   - animation
   - widget
   - ui
-  - 3d
+  - transformation
 
 screenshots:
   - description: Content Flipper widget demonstration
-    path: gif/demo.mp4
+    path: gif/demo.gif
