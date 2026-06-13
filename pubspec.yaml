@@ -1,0 +1,32 @@
+name: content_flipper
+description: A customizable Flutter widget for smooth 3D content flipping with support for horizontal and vertical animations, gesture handling, and custom transformations.
+version: 1.0.0
+
+homepage: https://github.com/leeerrrrmmm/Content-Flip-Library
+repository: https://github.com/leeerrrrmmm/Content-Flip-Library
+issue_tracker: https://github.com/leeerrrrmmm/Content-Flip-Library/issues
+
+environment:
+  sdk: ">=3.12.0 <4.0.0"
+  flutter: ">=3.35.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  test: ^1.25.6
+
+topics:
+  - flutter
+  - animation
+  - widget
+  - ui
+  - 3d
+
+screenshots:
+  - description: Content Flipper widget demonstration
+    path: gif/demo.mp4
