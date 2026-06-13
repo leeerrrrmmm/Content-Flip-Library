@@ -18,8 +18,11 @@ Whether you're building interactive flashcards, 3D toggles, product previews, or
 
 ---
 
-## Example
-![Content Flipper Demo](gif/demo.gif)
+## 🎬 Demo
+
+<p align="center">
+  <img src="gif/demo.gif" width="400" />
+</p>
 
 ---
 
